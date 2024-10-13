@@ -329,6 +329,9 @@ a:focus {
 .slider_section .img-box img {
   width: 100%;
 }
+.img-box{
+  padding: 20px;
+}
 
 .feature_section {
   -webkit-transform: translateY(-50%);
@@ -717,7 +720,7 @@ a:focus {
 
 .info_section {
   padding: 75px 0;
-  background-color: #0a0f43;
+  background-color: #6f77cd;
   text-align: center;
   color: #fff;
 }
